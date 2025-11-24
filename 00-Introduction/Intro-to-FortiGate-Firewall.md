@@ -26,7 +26,7 @@ Their most famous product is FortiGate, a next-generation firewall (NGFW) that c
 
 Fortinet grew extremely fast due to a few major strengths:
 
-1. FortiOS (All-in-one Security OS)
+🌍1. FortiOS (All-in-one Security OS)
 A unified operating system that includes:
 Firewall
 VPN
@@ -38,15 +38,15 @@ SD-WAN
 Automation
 All in one box.
 
-2. FortiASIC (Custom Security Processors)
+🌍2. FortiASIC (Custom Security Processors)
 
 Fortinet uses its own hardware chips (SPUs) to deliver very high performance, even when multiple security features are enabled.
 
-3. Wide Security Ecosystem
+🌍3. Wide Security Ecosystem
 
 Fortinet products integrate under the Fortinet Security Fabric, allowing centralized visibility and automated threat response.
 
-4. Industry Leadership
+🌍4. Industry Leadership
 
 Gartner NGFW Leader
 Leader in SD-WAN
