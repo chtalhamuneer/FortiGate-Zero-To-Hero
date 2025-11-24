@@ -1,0 +1,42 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+# Sensitive files
+*.key
+*.pem
+*.crt
+*.ovpn
+*.raw
+*.bak
+*.backup
+
+# Virtual Machine images and disk files
+*.qcow2
+*.vmdk
+*.iso
+*.ova
+*.img
+
+# EVE-NG/GNS3 generated files
+*.unl.backup
+*.gns3project
+*.log
+*.cfg
+
+# Python virtual env (if used)
+venv/
+__pycache__/
+
+# Exported configs (optional)
+configs/*.conf.backup
+configs/*-old.conf
+
+# Generated documentation output
+site/
