@@ -5,7 +5,7 @@ FortiGate is a next-generation firewall (NGFW) by Fortinet that provides advance
 
 ---
 
-**Fortinet – Company Overview & Background:**
+***Fortinet – Company Overview & Background:***
 
 Fortinet is a global cybersecurity company founded in 2000 by brothers Ken Xie and Michael Xie. Its headquarters is in Sunnyvale, California (USA). Fortinet’s main mission is to provide high-performance cybersecurity solutions that protect networks, users, devices, and data across the entire digital attack surface.
 Today, Fortinet is one of the largest cybersecurity vendors in the world, used by enterprises, service providers, governments, banks, data centers, and cloud providers.
