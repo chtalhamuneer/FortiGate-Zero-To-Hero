@@ -21,7 +21,7 @@ Their most famous product is FortiGate, a next-generation firewall (NGFW) that c
 
 Fortinet grew extremely fast due to a few major strengths:
 
-1.**FortiOS (All-in-one Security OS)**
+1.***FortiOS (All-in-one Security OS)***
 A unified operating system that includes:
 - Firewall
 - VPN
