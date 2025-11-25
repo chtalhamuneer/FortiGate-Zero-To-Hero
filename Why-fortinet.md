@@ -9,12 +9,12 @@ Fortinet builds security products that focus on:
 
 - Network Security
 - Next-Generation Firewalls (FortiGate)
--Secure SD-WAN
--Cloud Security
--Endpoint Protection
--Email & Web Security
--SOC & Threat Intelligence
--Automation & Orchestration
+- Secure SD-WAN
+- Cloud Security
+- Endpoint Protection
+- Email & Web Security
+- SOC & Threat Intelligence
+- Automation & Orchestration
 Their most famous product is FortiGate, a next-generation firewall (NGFW) that combines security and networking features in a single device.
 
 - **Why Fortinet Became So Popular**
@@ -23,15 +23,15 @@ Fortinet grew extremely fast due to a few major strengths:
 
 1.**FortiOS (All-in-one Security OS)**
 A unified operating system that includes:
-Firewall
-VPN
-IPS
-Web filtering
-Antivirus
-Application control
-SD-WAN
-Automation
-All in one box.
+- Firewall
+- VPN
+- IPS
+- Web filtering
+- Antivirus
+- Application control
+- SD-WAN
+- Automation
+- All in one box.
 
 2. **FortiASIC (Custom Security Processors)**
 
