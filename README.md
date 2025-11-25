@@ -1,4 +1,4 @@
 # FortiGate-Zero-To-Hero
 This repository is a structured, step-by-step journey with my personal expertise in Network-Security to help you learn FortiGate firewalls from absolute beginner to expert level. It includes clear explanations, hands-on labs, troubleshooting guides, real-world scenarios, and configuration examples.
 - Day 1. [Introduction](00-Introduction/Intro-to-FortiGate-Firewall.md)
-- Day 2. [Why Fortinet](01-Why-Fortinet/Why-fortinet.md)
+- Day 2. [Why Fortinet](Why-Fortinet/01-Why-fortinet.md)
