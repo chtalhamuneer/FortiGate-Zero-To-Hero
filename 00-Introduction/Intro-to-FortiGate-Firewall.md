@@ -292,7 +292,7 @@ FortiGate usually wins in:
 * **Real-time threat updates**
 * **Price**
 
-## **Conclusion (Use this in GitHub)**
+## **Conclusion**
 
 FortiGate provides stronger security because it combines:
 
