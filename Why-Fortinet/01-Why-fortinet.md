@@ -1,9 +1,9 @@
-- ***Fortinet – Company Overview & Background:***
+- # ***Fortinet – Company Overview & Background:***
 
 Fortinet is a global cybersecurity company founded in 2000 by brothers **Ken Xie** and **Michael Xie**. Its headquarters is in Sunnyvale, California (USA). Fortinet’s main mission is to provide high-performance cybersecurity solutions that protect networks, users, devices, and data across the entire digital attack surface.
 Today, Fortinet is one of the largest cybersecurity vendors in the world, used by enterprises, service providers, governments, banks, data centers, and cloud providers.
 
-- **Fortinet’s Core Focus**
+- # **Fortinet’s Core Focus**
 
 Fortinet builds security products that focus on:
 
@@ -17,7 +17,7 @@ Fortinet builds security products that focus on:
 - Automation & Orchestration
 Their most famous product is FortiGate, a next-generation firewall (NGFW) that combines security and networking features in a single device.
 
-- **Why Fortinet Became So Popular**
+- # **Why Fortinet Became So Popular**
 
 Fortinet grew extremely fast due to a few major strengths:
 
