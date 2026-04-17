@@ -3,3 +3,4 @@ This repository is a structured, step-by-step journey with my personal expertise
 - Day 1. [Introduction](00-Introduction/Intro-to-FortiGate-Firewall.md)
 - Day 2. [Why Fortinet](Why-Fortinet/01-Why-fortinet.md)
 - Day 3. [History of Firewalls](History/02-History-of-Firewalls.md)
+- Subnetting Cheat Sheet [Cheat Sheet](Cheat-Sheet/04-Cheat-Sheet.md)
