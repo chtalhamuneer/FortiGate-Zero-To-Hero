@@ -1,6 +1,11 @@
 # Final cheat sheet:
+
 Subnets = 2^(borrowed bits)
+
 Total IPs = 2^(host bits)
+
 Usable = Total − 2
+
 Host bits = 32 − CIDR
+
 Group size = 256 − mask
